@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'inter-regular';
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    src: url("../fonts/inter/Inter-Regular.otf") format('truetype');;
+}
+
+:root {
+    --primary-color: red;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'inter-regular';
+    font-size: 14px;
+    font-weight: normal;
+}
